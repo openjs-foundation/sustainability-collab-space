@@ -14,7 +14,8 @@
 * Improve the day-to-day operations of maintainers by implementing findings and recommendations from the Ecosystem Report Collaboration Space. 
 
 ### Collaboration Space Members
-Ulises Gascón (@UlisesGascon)
-Robin Ginn (@rginn)
-Jordan Harband (@ljharb)
-Pelle Wessman (voxpelli)
+
+* Ulises Gascón (@UlisesGascon)
+* Robin Ginn (@rginn)
+* Jordan Harband (@ljharb)
+* Pelle Wessman (voxpelli)
