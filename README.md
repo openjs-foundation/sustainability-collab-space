@@ -12,3 +12,9 @@
 * Strengthen partnerships between funding bodies and JavaScript project maintainers and the foundation to foster innovative sustainability solutions in a coordinated way.
 * Demonstrate the value proposition for companies to make open source contributions as part of their core development process.
 * Improve the day-to-day operations of maintainers by implementing findings and recommendations from the Ecosystem Report Collaboration Space. 
+
+### Collaboration Space Members
+Ulises Gascón (@UlisesGascon)
+Robin Ginn (@rginn)
+Jordan Harband (@ljharb)
+Pelle Wessman (voxpelli)
