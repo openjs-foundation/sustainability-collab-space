@@ -15,7 +15,7 @@
 
 ### Collaboration Space Members
 
-* Ulises Gascón (@UlisesGascon)
-* Robin Ginn (@rginn)
-* Jordan Harband (@ljharb)
-* Pelle Wessman (voxpelli)
+* Ulises Gascón ([@UlisesGascon](https://github.com/UlisesGascon))
+* Robin Ginn ([@rginn](https://github.com/rginn))
+* Jordan Harband ([@ljharb](https://github.com/ljharb))
+* Pelle Wessman ([@voxpelli](https://github.com/voxpelli))
