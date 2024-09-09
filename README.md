@@ -15,11 +15,11 @@
 
 ### Collaboration Space Members
 
-* Ulises Gascón (@UlisesGascon)
-* Robin Ginn (@rginn)
-* Jordan Harband (@ljharb)
-* Pelle Wessman (@voxpelli)
-* Chris de Almeida (@ctcpip)
-* Rick Markins (@rxmarbles)
-* Michael Dawson (@mhdawson)
-* Steve Husak (@shusak)
+* Ulises Gascón ([@UlisesGascon](https://github.com/UlisesGascon))
+* Robin Ginn ([@rginn](https://github.com/rginn))
+* Jordan Harband ([@ljharb](https://github.com/ljharb))
+* Pelle Wessman ([@voxpelli](https://github.com/voxpelli))
+* Chris de Almeida ([@ctcpip](https://github.com/ctcpip))
+* Rick Markins ([@rxmarbles](https://github.com/rxmarbles))
+* Michael Dawson ([@mhdawson](https://github.com/mhdawson))
+* Steve Husak ([@shusak](https://github.com/shusak))
