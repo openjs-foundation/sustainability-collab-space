@@ -18,4 +18,6 @@
 * Ulises Gascón (@UlisesGascon)
 * Robin Ginn (@rginn)
 * Jordan Harband (@ljharb)
-* Pelle Wessman (voxpelli)
+* Pelle Wessman (@voxpelli)
+* Rick Markins (@rxmarbles)
+* Michael Dawson (@mhdawson)
