@@ -19,5 +19,6 @@
 * Robin Ginn (@rginn)
 * Jordan Harband (@ljharb)
 * Pelle Wessman (@voxpelli)
+* Chris de Almeida (@ctcpip)
 * Rick Markins (@rxmarbles)
 * Michael Dawson (@mhdawson)
